@@ -1,6 +1,6 @@
 <?php
 
-namespace Khalil\Calculator;
+namespace Khalilo\Calculator;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -15,7 +15,7 @@ class CalculatorServiceProvider extends ServiceProvider
     {
         //
         // register our controller
-        $this->app->make('Khalil\Calculator\CalculatorController');
+        $this->app->make('Khalilo\Calculator\CalculatorController');
     }
 
     /**
