@@ -1,0 +1,12 @@
+{
+    "name": "khalil/calculator",
+    "description": "demo package does some calculations",
+    "authors": [
+        {
+            "name": "Khalil Abdeljawad",
+            "email": "khalil@kdevsoft.ocm"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
