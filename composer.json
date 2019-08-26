@@ -1,5 +1,5 @@
 {
-    "name": "khalil/calculator",
+    "name": "khalilo/calculator",
     "description": "demo package does some calculations",
     "authors": [
         {
@@ -9,22 +9,15 @@
     ],
     "minimum-stability": "dev",
     "require": {},
-    "extra": {
-        "laravel": {
-            "providers": [
-                "vendor_name\\package_name\\service_provider_name"
-
-            ]
-        }
-    },
+    
     "autoload": {
         "psr-4": {
-            "Khalil\\Calculator\\": "packages/khalil/calculator/src"
+            "Khalilo\\Calculator\\": "packages/khalilo/calculator/src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Khalil\\Calculator\\": "packages/khalil/calculator/src"
+            "Khalilo\\Calculator\\": "packages/khalilo/calculator/src"
         }
     }
 }
